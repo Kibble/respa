@@ -1,0 +1,9 @@
+.app-toolbar {
+    display: flex;
+    justify-content: center;
+}
+
+.app-toolbar > button.app-toolbar__page-button {
+    height: 100%;
+    margin: 0px;
+}
